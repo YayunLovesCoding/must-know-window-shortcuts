@@ -1,2 +1,3 @@
 # must-know-window-shortcuts
-- Alt+Tab is a keyboard shortcut most often used to switch between open programs
+- Alt + Tab: switch between open programs
+- Ctrl + Tab: switch between open tabs in the active window.
